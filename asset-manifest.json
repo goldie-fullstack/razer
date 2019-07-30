@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.34de6062.chunk.css",
-    "main.js": "/static/js/main.a2c47016.chunk.js",
-    "main.js.map": "/static/js/main.a2c47016.chunk.js.map",
+    "main.css": "/static/css/main.04a7be51.chunk.css",
+    "main.js": "/static/js/main.dd9fdd6a.chunk.js",
+    "main.js.map": "/static/js/main.dd9fdd6a.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.0c261984.chunk.js": "/static/js/2.0c261984.chunk.js",
-    "static/js/2.0c261984.chunk.js.map": "/static/js/2.0c261984.chunk.js.map",
+    "static/js/2.647d8b8c.chunk.js": "/static/js/2.647d8b8c.chunk.js",
+    "static/js/2.647d8b8c.chunk.js.map": "/static/js/2.647d8b8c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.af4f1741d83cec168e08086ce8d6c9a8.js": "/precache-manifest.af4f1741d83cec168e08086ce8d6c9a8.js",
+    "precache-manifest.1f34831a75b172697022017c2dd8c6dd.js": "/precache-manifest.1f34831a75b172697022017c2dd8c6dd.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map"
+    "static/css/main.04a7be51.chunk.css.map": "/static/css/main.04a7be51.chunk.css.map",
+    "static/media/main.scss": "/static/media/razer-nari-hero-desktop-wireless-gaming-headset.466e0040.jpg",
+    "static/media/razer-nari-Cooling-Gel-Infused-Cushions-icon.svg": "/static/media/razer-nari-Cooling-Gel-Infused-Cushions-icon.8b75b42b.svg",
+    "static/media/razer-nari-logo.svg": "/static/media/razer-nari-logo.44a1229e.svg"
   }
 }
