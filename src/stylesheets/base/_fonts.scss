@@ -1,0 +1,11 @@
+@include font-face($font-opensans, $base-url + 'fonts/', 'opensans-regular', 'opensans-regular');
+
+@include font-face($font-montserrat-black, $base-url + 'fonts/', 'montserrat-black', 'montserrat-black');
+@include font-face($font-montserrat-bold, $base-url + 'fonts/', 'montserrat-bold', 'montserrat-bold');
+@include font-face($font-montserrat-extrabold, $base-url + 'fonts/', 'montserrat-extrabold', 'montserrat-extrabold');
+@include font-face($font-montserrat-extralight, $base-url + 'fonts/', 'montserrat-extralight', 'montserrat-extralight');
+@include font-face($font-montserrat-light, $base-url + 'fonts/', 'montserrat-light', 'montserrat-light');
+@include font-face($font-montserrat-medium, $base-url + 'fonts/', 'montserrat-medium', 'montserrat-medium');
+@include font-face($font-montserrat-regular, $base-url + 'fonts/', 'montserrat-regular', 'montserrat-regular');
+@include font-face($font-montserrat-semibold, $base-url + 'fonts/', 'montserrat-semibold', 'montserrat-semibold');
+@include font-face($font-montserrat-thin, $base-url + 'fonts/', 'montserrat-thin', 'montserrat-thin');
