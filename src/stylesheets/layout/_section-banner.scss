@@ -1,0 +1,101 @@
+  .section-banner {
+    position: relative;
+
+    padding-top: 133px;
+    height: 650px;
+    z-index: 1;
+
+    background-image: url('../assets/images/razer-nari-hero-desktop-wireless-gaming-headset.jpg');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #000;
+
+    &:before {
+      content: '';
+
+      position: absolute;
+      top: 0;
+
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+
+      background-color: rgba(0, 0, 0, 0.49);
+    }
+
+    &.spartial-audio {
+      height: 696px;
+      padding-top: 91px;
+      
+      background-image: url('../assets/images/razer-nari-usp02-desktop-wireless-gaming-headset.jpg');
+      background-size: cover;
+
+      .support-image {
+        width: 135px;
+      }
+    }
+
+    .holder-logo {
+      position: relative;
+      top: -104px;
+      left: 47px;
+
+      display: flex;
+      justify-content: flex-end;
+
+      .image-logo {
+        width: 274px;
+      }
+    }
+
+    .heading {    
+      width: 519px;
+      max-width: 100%;
+  
+      font-size: 46px;
+      font-family: $font-montserrat-bold;
+      color: #fff;
+      line-height: 60px;
+
+      &-green {
+        font-size: 23px;
+        color: #00ff00;
+      }
+    }
+  
+    .description {
+      width: 572px;
+      margin-top: 14px;
+      max-width: 100%;
+  
+      font-family: $font-montserrat-thin;
+      color: #8e8686;
+      font-size: 15px;
+      letter-spacing: 0.4px;
+      line-height: 24px;
+
+      &-md {
+        margin-top: 0;
+        width: 400px;
+        font-size: 19px;
+        line-height: 30px;
+      }
+    }
+  
+    .razer-support {
+      display: flex;
+      padding: 0;
+      margin-top: 33px;
+  
+      list-style: none;
+    }
+
+    .support-image {
+      width: 95px;
+    }
+
+    .support-item {
+      margin-right: 12px;
+    }
+  }

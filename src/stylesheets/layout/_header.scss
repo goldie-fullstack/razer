@@ -1,0 +1,41 @@
+header {
+  padding: 19px 0 17px;
+  background-color: #0f0f0f;
+
+  > .container {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+  }
+
+  .img-logo {
+    width: 170px;
+  }
+
+  .menu-wrapper {
+    position: relative;
+    left: 33px;
+
+    display: flex;
+    align-items: center;
+    padding: 0;
+    list-style: none;
+  }
+
+  .menu-item {
+    margin: 0 24px;
+  }
+
+  .menu-link {
+    font-size: 11px;
+    font-family: $font-montserrat-bold;
+    color: #8e8686;
+  }
+
+  .btn-green {
+    width: 153px;
+    padding: 12px;
+
+    text-align: center;
+  }
+}

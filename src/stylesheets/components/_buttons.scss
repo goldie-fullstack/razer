@@ -1,0 +1,21 @@
+%btn {
+  font-family: $font-montserrat-bold;
+  color: $text-color;
+  font-size: 10px;
+  letter-spacing: 0.8px;
+
+  background-color: transparent;
+  border: 0;
+}
+
+.btn-green {
+  @extend %btn;
+
+  display: block;
+  width: 67%;
+  margin: 0 auto;
+  padding: 16px;
+
+  background-color: #00ff00;
+  border-radius: 30px;
+}
